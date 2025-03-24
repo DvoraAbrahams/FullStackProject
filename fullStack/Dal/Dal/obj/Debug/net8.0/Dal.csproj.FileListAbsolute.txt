@@ -1,0 +1,11 @@
+H:\fullStack\Dal\Dal\bin\Debug\net8.0\Dal.deps.json
+H:\fullStack\Dal\Dal\bin\Debug\net8.0\Dal.dll
+H:\fullStack\Dal\Dal\bin\Debug\net8.0\Dal.pdb
+H:\fullStack\Dal\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+H:\fullStack\Dal\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+H:\fullStack\Dal\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+H:\fullStack\Dal\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+H:\fullStack\Dal\Dal\obj\Debug\net8.0\Dal.dll
+H:\fullStack\Dal\Dal\obj\Debug\net8.0\refint\Dal.dll
+H:\fullStack\Dal\Dal\obj\Debug\net8.0\Dal.pdb
+H:\fullStack\Dal\Dal\obj\Debug\net8.0\ref\Dal.dll
